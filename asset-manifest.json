@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/medix-app/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/medix-app/static/js/main.1b4c4dd1.chunk.js",
+    "main.js.map": "/medix-app/static/js/main.1b4c4dd1.chunk.js.map",
+    "runtime-main.js": "/medix-app/static/js/runtime-main.d3061740.js",
+    "runtime-main.js.map": "/medix-app/static/js/runtime-main.d3061740.js.map",
+    "static/js/2.1a07248a.chunk.js": "/medix-app/static/js/2.1a07248a.chunk.js",
+    "static/js/2.1a07248a.chunk.js.map": "/medix-app/static/js/2.1a07248a.chunk.js.map",
+    "static/js/3.5a91e151.chunk.js": "/medix-app/static/js/3.5a91e151.chunk.js",
+    "static/js/3.5a91e151.chunk.js.map": "/medix-app/static/js/3.5a91e151.chunk.js.map",
+    "index.html": "/medix-app/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/medix-app/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.1a07248a.chunk.js.LICENSE.txt": "/medix-app/static/js/2.1a07248a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/medix-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3061740.js",
+    "static/js/2.1a07248a.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.1b4c4dd1.chunk.js"
+  ]
+}
